@@ -1,2 +1,2 @@
 
-![ ]([Image](https://visit.home.jgarrettcorbin.com/stats/hit))
+![ ]([Image](https://visit.home.jgarrettcorbin.com/hit))
